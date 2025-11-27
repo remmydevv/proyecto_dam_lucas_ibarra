@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951932272189",
+    "project_id": "proyecto-dam-lucas-ibarra",
+    "storage_bucket": "proyecto-dam-lucas-ibarra.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951932272189:android:bc9918caad73e873f43454",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_dam_lucas_ibarra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951932272189-ph449fheb54fof3rke14gj7aujfspkj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyecto_dam_lucas_ibarra",
+            "certificate_hash": "a83c69a283a76ce40eb22dc7895c5dfc499d6dc4"
+          }
+        },
+        {
+          "client_id": "951932272189-70vfe7dhat45rt8ujh0to43ergnge12o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9QY7a5vZOwyrPLAjCxzC5vDLTGH_wZYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951932272189-70vfe7dhat45rt8ujh0to43ergnge12o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
